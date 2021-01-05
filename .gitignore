@@ -1,0 +1,7 @@
+# binary files
+*
+!*/
+!*.*
+
+# others
+.vscode/
