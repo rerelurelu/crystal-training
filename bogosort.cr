@@ -26,6 +26,7 @@ def create_numbers
 end
 
 
+# main
 numbers = create_numbers
 
 elapsed_time = Time.measure do
