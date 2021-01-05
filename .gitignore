@@ -3,5 +3,8 @@
 !*/
 !*.*
 
+# notebook
+lab/
+
 # others
 .vscode/
