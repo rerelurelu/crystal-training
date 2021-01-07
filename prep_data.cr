@@ -4,7 +4,7 @@ class PrepData
     elements_number = rand(8..10)
   
     (0..elements_number).each do
-      numbers << rand(100)
+      numbers << rand(1000)
     end
     return numbers
   end
