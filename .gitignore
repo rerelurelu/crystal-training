@@ -1,0 +1,11 @@
+# binary files
+*
+!*/
+!*.*
+
+# notebook
+lab/
+.ipynb_checkpoints
+
+# others
+.vscode/
