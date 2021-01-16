@@ -1,9 +1,9 @@
 require "./prep_data"
 
 def insertion_sort(numbers : Array(Int32))
-  num = numbers.size - 1
+  num = numbers.size
 
-  (1..num).each do |i|
+  (1...num).each do |i|
     tmp = numbers[i]
     j = i - 1
     
