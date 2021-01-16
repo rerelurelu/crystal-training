@@ -1,9 +1,8 @@
 class PrepTestData
   def create_numbers
     numbers = [] of Int32
-    elements_number = rand(5)
   
-    (0..elements_number).each do
+    (0...5).each do
       numbers << rand(10)
     end
     return numbers
