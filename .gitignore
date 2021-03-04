@@ -9,6 +9,10 @@ lab/
 
 # others
 .vscode/
+__pycache__
 
 # python env files
 .python-version
+
+# Detailed file about execution speed
+*.lprof
