@@ -9,3 +9,6 @@ lab/
 
 # others
 .vscode/
+
+# python env files
+.python-version
